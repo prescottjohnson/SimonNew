@@ -33,3 +33,5 @@ function loadScores() {
   }
   
   loadScores();
+
+  console.log('scores.js file');

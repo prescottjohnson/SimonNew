@@ -176,3 +176,5 @@ function delay(milliseconds) {
 function loadSound(filename) {
   return new Audio('assets/' + filename);
 }
+
+console.log('play.js file');
